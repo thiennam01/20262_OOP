@@ -1,2 +1,2 @@
-# 20262_OOP
+# 2025_2 OOP
 Nguyễn Thiện Nam - 20235790
